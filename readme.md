@@ -1,5 +1,6 @@
 <img src="https://static.begin.app/node-svelte/readme-banner.png" width="788">
-![Visitor Count](https://profile-counter.glitch.me/jcald/count.svg)
+
+[!Visitor Count](https://profile-counter.glitch.me/jcald/count.svg)
 
 [![Begin build status](https://buildstatus.begin.app/sing-sk9/status.svg)](https://begin.com)
 
